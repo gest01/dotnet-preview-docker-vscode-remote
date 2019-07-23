@@ -1,8 +1,8 @@
+using System;
+using System.Text;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
-using System;
-using System.Text;
 
 namespace aspnetapp
 {
