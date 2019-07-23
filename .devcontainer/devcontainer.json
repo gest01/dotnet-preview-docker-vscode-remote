@@ -1,0 +1,8 @@
+{
+	"name": "Dotnet Preview with Docker sample",
+	"dockerFile": "Dockerfile",
+	"appPort": 9000,
+	"extensions": [
+		"ms-vscode.csharp"
+	]
+}
